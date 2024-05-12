@@ -40,7 +40,7 @@ import inquirer from "inquirer";
             type: 'list',
             name: 'preference',
             message: 'WHAT DO U PREFER?',
-            choices: ['WATCH ANIME/MOVIES/PLAY GAME', 'GO OUT WITH FRIENDS', 'MIX OF BOTH']
+            choices: ['WATCH ANIME/MOVIES/PLAY GAMES', 'GO OUT WITH FRIENDS', 'MIX OF BOTH']
           }
         ]);
   
