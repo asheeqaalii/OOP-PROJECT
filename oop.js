@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 class Person {
     name;
@@ -55,7 +55,7 @@ class Person {
         return this;
     }
     printPersonality() {
-        console.log(`HEY, ${this.name}! YOUR AGE IS ${this.age} AND YOU ARE ${this.personality}.`);
+        console.log(`HEY, ${this.name}! YOUR AGE IS ${this.age} AND YOU ARE AN ${this.personality}.`);
     }
 }
 (async () => {
