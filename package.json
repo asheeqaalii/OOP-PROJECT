@@ -2,8 +2,9 @@
   "name": "oop-project_by_ashi",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "oop.js",
   "type": "module",
+  "bin": "oop.js",
   "publishConfig": {
     "access": "public"
   },
