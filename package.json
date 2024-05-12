@@ -2,7 +2,7 @@
   "name": "oop-project_by_ashi",
   "version": "1.0.0",
   "description": "",
-  "main": "oop.js",
+  "main": "index.js",
   "type": "module",
   "bin": "oop.js",
   "publishConfig": {
